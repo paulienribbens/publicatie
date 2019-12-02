@@ -1,0 +1,50 @@
+@charset "UTF-8";
+/* CSS Document */
+body{background-color: #F4EEF4;}
+.col-4{background-color: rgba(256,256,256,0.95)}
+img{
+  height: 100vh;
+  width: 100vw;
+  object-fit: cover;
+}
+
+.navigatie{position: fixed;top:0;}
+/* volgende regel gaat de klasse "container-fluid" beschrijven*/
+.container-fluid {
+  width: 100%;
+  padding-right: 2vw;
+  padding-left: 2vw;
+  margin-right: auto;
+  margin-left: auto;
+}
+/* */
+h1{font-family: 'Josefin Slab', serif;}
+h2{font-family: 'Josefin Slab', serif;}
+h3{font-family: 'Josefin Slab', serif;}
+h4{font-family: 'Josefin Slab', serif;}
+h5{font-family: 'Josefin Slab', serif;}
+h6{font-family: 'Josefin Slab', serif;}
+p{font-family: 'Source Serif Pro', serif;}
+
+
+/* */
+#contentsection .navbar{top:6px;}
+.navbar{top:0px;}
+.navtoggle{max-width: 10px; max-height: 10px;}
+.navbar-brand{margin-top:2vh;white-space: inherit;}
+.description{color:#999999;}
+/* */
+.contentsection{
+  padding-top:5vh;
+}
+.contentsectiontitle{
+  margin-top: 10vh;
+  font-weight: bold;
+  font-size: 20px;
+}
+.contentsectiontitle h1,
+.contentsectiontitle h2,
+.contentsectiontitle h3,
+.contentsectiontitle p{
+  font-size: 1rem;
+}
