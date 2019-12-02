@@ -1,4 +1,9 @@
 @charset "UTF-8";
+
+@import url('https://fonts.googleapis.com/css?family=Source+Serif+Pro&display=swap');
+
+@import url('https://fonts.googleapis.com/css?family=Josefin+Slab&display=swap');
+
 /* CSS Document */
 body{background-color: #F4EEF4;}
 .col-4{background-color: rgba(256,256,256,0.95)}
