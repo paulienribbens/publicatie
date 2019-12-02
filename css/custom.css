@@ -5,9 +5,7 @@
 @import url('https://fonts.googleapis.com/css?family=Josefin+Slab&display=swap');
 
 /* CSS Document */
-body{background-color: #F4EEF4;
-
-font-family: 'Source Serif Pro', serif;}
+body{background-color: #F4EEF4;}
 .col-4{background-color: rgba(256,256,256,0.95)}
 img{
   height: 100vh;
@@ -31,7 +29,8 @@ h3{font-family: 'Josefin Slab', serif;}
 h4{font-family: 'Josefin Slab', serif;}
 h5{font-family: 'Josefin Slab', serif;}
 h6{font-family: 'Josefin Slab', serif;}
-p{font-family: 'Source Serif Pro', serif;}
+p{
+font-family: 'Source Serif Pro', serif;}
 
 
 /* */
